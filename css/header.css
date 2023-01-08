@@ -1,0 +1,51 @@
+header{
+    width: 1400px;
+    height: 700px;
+background-image: url('../images/banner/banner3.png');
+background-size: cover;
+background-repeat: no-repeat;
+}
+.hed-p{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 745px;
+    top: 90px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+color: #000000;
+}
+.hed-p2{
+    position: absolute;
+    width: 500px;
+    height: 80px;   
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    left: 770px;
+    top: 380px; 
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;    
+    color: #001d17;
+}
+
+.btn-head{
+
+    position: absolute; 
+    width: 160px;
+    height: 64px;
+    left: 1100px;
+    top: 500px;
+    border-style: none;
+    border-radius: 20px;
+    background-color: cornflowerblue;
+    color: black;
+    font-size: 20px;
+    font-family:Work Sans ;
+    }

@@ -1,0 +1,67 @@
+footer{
+position: absolute;
+width: 1400px;
+height: 400px;
+top: 2550px;
+background: rgb(29, 28, 28);
+color: rgb(205, 227, 245);
+}
+.future{
+    position: absolute;
+    font-size: 30px;
+    left: 200px;
+    top: 80px;
+    font-weight: 100;
+}
+.lorem{
+    position: absolute;
+    font-weight: 100;
+    font-size: 15px;
+    left: 200px;
+    top: 150px;
+    font-style: normal;    
+}
+.email{
+    position: absolute;
+    left: 200px;
+    top: 210px;
+    
+}
+a:link{
+    color: rgb(205, 227, 245);
+    text-decoration: none;
+}
+form{
+    
+    position: absolute;
+    left: 800px;
+    top: 100px;
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+input{
+    background: transparent;
+    width: 3000px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: rgb(252, 253, 255);
+
+}
+.subs{
+    position: absolute;
+    font-size: 20px;
+    bottom: 15px;
+}
+.fot-btn{
+    position: absolute;
+    padding:10px 35px ;
+    border-radius: 5px;
+    top: 60px;
+    left: 25px;
+    border: 0px none;
+    background-color:rgb(66, 66, 241) ;
+    color: aliceblue;
+
+}
